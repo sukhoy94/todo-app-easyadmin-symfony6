@@ -1,4 +1,4 @@
-# todo-app-easyadmin-symfony6
+# TODO application in Symfony using EasyAdmin Bundle
 Todo application in Symfony using EasyAdmin
 
 # Docs
