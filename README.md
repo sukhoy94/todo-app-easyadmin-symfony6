@@ -5,6 +5,6 @@ Todo application in Symfony using EasyAdmin
 
 https://symfony.com/bundles/EasyAdminBundle/current/index.html
 
-#Entities
+# Entities
 
 * Task - https://github.com/sukhoy94/todo-app-easyadmin-symfony6/blob/master/src/Entity/Task.php
